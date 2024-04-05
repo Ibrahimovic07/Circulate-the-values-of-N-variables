@@ -28,7 +28,7 @@ def circulate():
 a=eval(input())
 n=int(input())
 ```
-## Output:
-![alt text](<Screenshot 2024-04-05 160126.png>)
+## OUTPUT
+![alt text](<Screenshot 2024-04-05 164002-1.png>)
 ## Result:
 The output for circulate the values of n variables is successfull .
